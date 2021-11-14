@@ -69,3 +69,4 @@ Surgiu após verificar a distância dos objetos móveis através da câmera, viu
 https://www.youtube.com/watch?v=0iY1kU2bWpI&t=761s
 
 "# carmen_lcad-src-virtual_depth_estimator" 
+"# carmen_lcad-src-virtual_depth_estimator"  
