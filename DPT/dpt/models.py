@@ -107,7 +107,7 @@ class DPTDepthModel(DPT):
         )
 
         super().__init__(head, **kwargs)
-
+        print(path)
         if path is not None:
             self.load(path)
 
